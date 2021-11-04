@@ -1,5 +1,5 @@
 # WebScrapingProject
-In this folder contains multiple different web scraping programs used for different purposes.
+This folder contains multiple different web scraping programs used for different purposes.
 
 The first set of programs (mal_scrape_proto.py) is a personal project where I wanted to calculate how long it would take to watch every anime (I'm a huge nerd). So I scraped the data from the biggest anime database and wrote it to one large CSV file. There I converted it to a Excel file to actually do the calculations to see how long it would take to watch every anime, how long it would take to watch some specific genres, and also if it was even posible for a normal human to do this.
 
